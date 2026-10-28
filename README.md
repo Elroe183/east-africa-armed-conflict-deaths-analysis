@@ -79,9 +79,8 @@ The project also highlights the importance of checking data definitions, regiona
 ### East Africa Country Comparison Dashboard
 
 ![East Africa country comparison dashboard](east africa recorded deaths by on going conflict 2000-2025.PNG)
-### East Africa Country Comparison Dashboard
 
-![East Africa country comparison dashboard](recorded deathes in east afric comparison 2000-2025.png)
+![East Africa country comparison dashboard](recorded deathes in east afric comparison 2000-2025.PNG)
 
 Author: Data Analytics Portfolio Project
 Source: https://ourworldindata.org/war-and-peace#explore-data-on-armed-conflict-and-war
