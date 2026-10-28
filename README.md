@@ -76,7 +76,9 @@ This project demonstrates how Excel can be used to explore historical data, iden
 
 The project also highlights the importance of checking data definitions, regional coverage, and calculations before drawing conclusions.
 
----
+### East Africa Country Comparison Dashboard
+
+![East Africa country comparison dashboard](east africa recorded deaths by on going conflict 2000-2025)
 
 Author: Data Analytics Portfolio Project
 Tools: Microsoft Excel
