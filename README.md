@@ -76,11 +76,15 @@ This project demonstrates how Excel can be used to explore historical data, iden
 
 The project also highlights the importance of checking data definitions, regional coverage, and calculations before drawing conclusions.
 
-### East Africa Country Comparison Dashboard
+## Dashboard Preview
 
-![East Africa country comparison dashboard](east africa recorded deaths by on going conflict 2000-2025.PNG)
+### East Africa Armed Conflict Death Trends (2000–2025)
 
-![East Africa country comparison dashboard](recorded deathes in east afric comparison 2000-2025.PNG)
+![East Africa recorded deaths by ongoing conflict](<east africa recorded deaths by on going conflict 2000-2025.PNG>)
+
+### East Africa Country Comparison (2000–2025)
+
+![Recorded deaths comparison across East African countries](<recorded deathes in east afric comparison 2000-2025.PNG>)
 
 Author: Data Analytics Portfolio Project
 Source: https://ourworldindata.org/war-and-peace#explore-data-on-armed-conflict-and-war
